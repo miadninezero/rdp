@@ -1,6 +1,6 @@
 {
-  "Name": "mod 6",
-  "CreationDate": "2025-12-17",
+  "Name": "macro drop-v2",
+  "CreationDate": "2025-12-18",
   "Commands": [
     {
       "Command": "pause",
@@ -13344,7 +13344,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "12",
+      "Value": "50",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13358,7 +13358,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_available_count",
-      "Value": "500",
+      "Value": "250",
       "Targets": [
         "id=collectible_storefront_available_count",
         "name=collectible[storefront_available_count]",
@@ -13484,7 +13484,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "10",
+      "Value": "40",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13498,7 +13498,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_available_count",
-      "Value": "500",
+      "Value": "300",
       "Targets": [
         "id=collectible_storefront_available_count",
         "name=collectible[storefront_available_count]",
@@ -13624,7 +13624,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "10",
+      "Value": "25",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13753,7 +13753,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "10",
+      "Value": "25",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13767,7 +13767,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_available_count",
-      "Value": "500",
+      "Value": "400",
       "Targets": [
         "id=collectible_storefront_available_count",
         "name=collectible[storefront_available_count]",
