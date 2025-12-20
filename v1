@@ -1,6 +1,6 @@
 {
-  "Name": "macro drop-v2",
-  "CreationDate": "2025-12-18",
+  "Name": "mod 6",
+  "CreationDate": "2025-12-21",
   "Commands": [
     {
       "Command": "pause",
@@ -8538,12 +8538,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-b2d5ead2-c83d-4446-b7d1-c45fbfa51811-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-da778547-9cc1-4c1a-baca-8f72aa0b13bd-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-b2d5ead2-c83d-4446-b7d1-c45fbfa51811-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-da778547-9cc1-4c1a-baca-8f72aa0b13bd-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-b2d5ead2-c83d-4446-b7d1-c45fbfa51811-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-da778547-9cc1-4c1a-baca-8f72aa0b13bd-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -13344,7 +13344,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "50",
+      "Value": "11",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13358,7 +13358,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_available_count",
-      "Value": "250",
+      "Value": "500",
       "Targets": [
         "id=collectible_storefront_available_count",
         "name=collectible[storefront_available_count]",
@@ -13484,7 +13484,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "40",
+      "Value": "11",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13498,7 +13498,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_available_count",
-      "Value": "300",
+      "Value": "500",
       "Targets": [
         "id=collectible_storefront_available_count",
         "name=collectible[storefront_available_count]",
@@ -13624,7 +13624,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "25",
+      "Value": "11",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13753,7 +13753,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "25",
+      "Value": "11",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13767,7 +13767,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_available_count",
-      "Value": "400",
+      "Value": "500",
       "Targets": [
         "id=collectible_storefront_available_count",
         "name=collectible[storefront_available_count]",
@@ -13893,7 +13893,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "10",
+      "Value": "11",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -14033,7 +14033,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "10",
+      "Value": "11",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
