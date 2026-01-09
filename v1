@@ -1,6 +1,6 @@
 {
-  "Name": "mod 6",
-  "CreationDate": "2025-12-21",
+  "Name": "macro drop-v2",
+  "CreationDate": "2026-1-9",
   "Commands": [
     {
       "Command": "pause",
@@ -55,12 +55,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-fa802173-25c8-41d2-8cbd-f2e307244382-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-9c84c020-5552-455a-a041-c633a9235a7c-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-fa802173-25c8-41d2-8cbd-f2e307244382-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-9c84c020-5552-455a-a041-c633a9235a7c-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-fa802173-25c8-41d2-8cbd-f2e307244382-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-9c84c020-5552-455a-a041-c633a9235a7c-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -195,12 +195,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-f9069a74-9763-43f0-b8ad-c36f27515f25-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-56a0bbdc-c352-4ff0-ad4a-cae7442b0c59-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-f9069a74-9763-43f0-b8ad-c36f27515f25-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-56a0bbdc-c352-4ff0-ad4a-cae7442b0c59-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-f9069a74-9763-43f0-b8ad-c36f27515f25-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-56a0bbdc-c352-4ff0-ad4a-cae7442b0c59-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -335,12 +335,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-b88bbafa-39d4-45cf-ba10-282441732a07-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-6a517def-addf-415f-9296-610b0c4ca17e-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-b88bbafa-39d4-45cf-ba10-282441732a07-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-b88bbafa-39d4-45cf-ba10-282441732a07-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-6a517def-addf-415f-9296-610b0c4ca17e-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[3]/td/div/span[2]/div",
+        "css=#collectible-6a517def-addf-415f-9296-610b0c4ca17e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -481,12 +481,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-cf1b0422-3cc1-41a7-bd8b-779cff7f57ec-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-7aa6dce1-5625-48dd-a8ca-5c2f678acca1-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-cf1b0422-3cc1-41a7-bd8b-779cff7f57ec-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-7aa6dce1-5625-48dd-a8ca-5c2f678acca1-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-cf1b0422-3cc1-41a7-bd8b-779cff7f57ec-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-7aa6dce1-5625-48dd-a8ca-5c2f678acca1-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -621,12 +621,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-d95ea937-d385-4bc9-8051-a800dbe98575-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-da903035-6fb2-46eb-a22e-06d4f9f73cb4-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-d95ea937-d385-4bc9-8051-a800dbe98575-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-da903035-6fb2-46eb-a22e-06d4f9f73cb4-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-d95ea937-d385-4bc9-8051-a800dbe98575-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-da903035-6fb2-46eb-a22e-06d4f9f73cb4-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -761,12 +761,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-59b5586f-ca68-436e-a76c-71d075f7a47e-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-9c1cd4df-fae8-467c-bae6-6ca46f4a1bc5-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-59b5586f-ca68-436e-a76c-71d075f7a47e-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-9c1cd4df-fae8-467c-bae6-6ca46f4a1bc5-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-59b5586f-ca68-436e-a76c-71d075f7a47e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-9c1cd4df-fae8-467c-bae6-6ca46f4a1bc5-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -940,12 +940,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-1734aece-da18-4156-8fba-01bbae7b782d-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-11f76686-7fbe-413c-a9bd-0d2a91ae511d-table-row\"]/td/div/span[2]/div/div[2]",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-1734aece-da18-4156-8fba-01bbae7b782d-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-1734aece-da18-4156-8fba-01bbae7b782d-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-11f76686-7fbe-413c-a9bd-0d2a91ae511d-table-row\"]/td/div/span[2]/div/div[2]",
+        "xpath=//span[2]/div/div[2]",
+        "css=#collectible-11f76686-7fbe-413c-a9bd-0d2a91ae511d-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5"
       ],
       "Description": ""
     },
@@ -1080,12 +1080,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-06a1b620-090c-40e5-a079-d2d97fe5f2b0-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-2716748e-43e5-489b-9b0a-d1e1fbe6be8a-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-06a1b620-090c-40e5-a079-d2d97fe5f2b0-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-2716748e-43e5-489b-9b0a-d1e1fbe6be8a-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-06a1b620-090c-40e5-a079-d2d97fe5f2b0-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-2716748e-43e5-489b-9b0a-d1e1fbe6be8a-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -1220,12 +1220,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-e9ac6416-2eba-4a28-8700-13f2bcfcb135-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-5f5f72ed-0d19-45e4-ab1a-e98ece3ce82f-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-e9ac6416-2eba-4a28-8700-13f2bcfcb135-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-5f5f72ed-0d19-45e4-ab1a-e98ece3ce82f-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-e9ac6416-2eba-4a28-8700-13f2bcfcb135-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-5f5f72ed-0d19-45e4-ab1a-e98ece3ce82f-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -1360,12 +1360,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-f3490e6f-c4e5-47b9-9235-69cac4e67b60-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-978c4a01-3a49-4d75-b274-c0d7970fccbd-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-f3490e6f-c4e5-47b9-9235-69cac4e67b60-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-978c4a01-3a49-4d75-b274-c0d7970fccbd-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-f3490e6f-c4e5-47b9-9235-69cac4e67b60-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-978c4a01-3a49-4d75-b274-c0d7970fccbd-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -1500,12 +1500,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-e05c5bb2-1412-4dea-9155-0e6342308bcf-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-511626b4-99f2-4d13-ab90-f3acbd0cb8ff-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-e05c5bb2-1412-4dea-9155-0e6342308bcf-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-e05c5bb2-1412-4dea-9155-0e6342308bcf-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-511626b4-99f2-4d13-ab90-f3acbd0cb8ff-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[5]/td/div/span[2]/div",
+        "css=#collectible-511626b4-99f2-4d13-ab90-f3acbd0cb8ff-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -1632,12 +1632,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-bf713199-04ff-4868-9d64-5782a53468bf-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-e05c5bb2-1412-4dea-9155-0e6342308bcf-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-bf713199-04ff-4868-9d64-5782a53468bf-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-bf713199-04ff-4868-9d64-5782a53468bf-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-e05c5bb2-1412-4dea-9155-0e6342308bcf-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-e05c5bb2-1412-4dea-9155-0e6342308bcf-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -1811,12 +1811,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-5a904a96-0679-407b-b68e-46aeb8847ce8-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-b8a52807-6035-46b0-8af4-9fff48f7643b-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-5a904a96-0679-407b-b68e-46aeb8847ce8-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-5a904a96-0679-407b-b68e-46aeb8847ce8-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-b8a52807-6035-46b0-8af4-9fff48f7643b-table-row\"]/td/div/span[2]/div",
+        "xpath=//span[2]/div",
+        "css=#collectible-b8a52807-6035-46b0-8af4-9fff48f7643b-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -1951,12 +1951,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-2ae702f2-543d-4480-bd7b-d26ee532bc39-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-11a4c11f-d432-41c7-a800-f03553f2ad0e-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-2ae702f2-543d-4480-bd7b-d26ee532bc39-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-11a4c11f-d432-41c7-a800-f03553f2ad0e-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-2ae702f2-543d-4480-bd7b-d26ee532bc39-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-11a4c11f-d432-41c7-a800-f03553f2ad0e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -2091,12 +2091,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-3792b29f-db94-43b8-82cf-2ce5361eacbe-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-1da9adbd-e9fb-4511-b5aa-ff469fd433c4-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-3792b29f-db94-43b8-82cf-2ce5361eacbe-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-1da9adbd-e9fb-4511-b5aa-ff469fd433c4-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-3792b29f-db94-43b8-82cf-2ce5361eacbe-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-1da9adbd-e9fb-4511-b5aa-ff469fd433c4-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -2231,12 +2231,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-e92c4e1d-dfee-4999-adab-ce918a156fcd-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-6950060e-41aa-4c82-bd4d-e835f701ca28-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-e92c4e1d-dfee-4999-adab-ce918a156fcd-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-6950060e-41aa-4c82-bd4d-e835f701ca28-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-e92c4e1d-dfee-4999-adab-ce918a156fcd-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-6950060e-41aa-4c82-bd4d-e835f701ca28-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -2371,12 +2371,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-5ab62cd0-c0be-4e0c-b22e-b7ff273503e6-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-90a7c7f6-e2ab-4cec-a430-3032ab2a54c7-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-5ab62cd0-c0be-4e0c-b22e-b7ff273503e6-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-90a7c7f6-e2ab-4cec-a430-3032ab2a54c7-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-5ab62cd0-c0be-4e0c-b22e-b7ff273503e6-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-90a7c7f6-e2ab-4cec-a430-3032ab2a54c7-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -2511,12 +2511,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-f3ace4d2-cc52-41ac-a07d-d22854ccb510-table-row\"]/td/div/span",
+      "Target": "xpath=//*[@id=\"collectible-7f46e3ce-4700-4e2c-87be-6649bf876936-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-f3ace4d2-cc52-41ac-a07d-d22854ccb510-table-row\"]/td/div/span",
-        "xpath=//tr[6]/td/div/span",
-        "css=#collectible-f3ace4d2-cc52-41ac-a07d-d22854ccb510-table-row > td:nth-child(1) > div > span.absolute.-inset-y-px.right-0.-left-4"
+        "xpath=//*[@id=\"collectible-7f46e3ce-4700-4e2c-87be-6649bf876936-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[6]/td/div/span[2]/div",
+        "css=#collectible-7f46e3ce-4700-4e2c-87be-6649bf876936-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -2830,12 +2830,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-a9532b12-6f25-459f-b92f-ce543974e9ee-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-a9532b12-6f25-459f-b92f-ce543974e9ee-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-a9532b12-6f25-459f-b92f-ce543974e9ee-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -2970,12 +2970,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-389cfa21-0faa-4916-951e-0e95604ed14c-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-44afbdfc-49e8-40c7-8dfb-e14e9232a538-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-389cfa21-0faa-4916-951e-0e95604ed14c-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-389cfa21-0faa-4916-951e-0e95604ed14c-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-44afbdfc-49e8-40c7-8dfb-e14e9232a538-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//div[2]/p",
+        "css=#collectible-44afbdfc-49e8-40c7-8dfb-e14e9232a538-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -4448,12 +4448,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-f7cbf5cc-715f-4e40-8619-d5f018648a3f-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-4257df79-da0c-4875-b689-d189e19b7e39-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-f7cbf5cc-715f-4e40-8619-d5f018648a3f-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-4257df79-da0c-4875-b689-d189e19b7e39-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-f7cbf5cc-715f-4e40-8619-d5f018648a3f-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-4257df79-da0c-4875-b689-d189e19b7e39-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -4588,12 +4588,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-939ca24f-35a9-404b-b28a-ba5d20528acb-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-bfdb9700-e62c-4a9c-bc17-7c83e76336c2-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-939ca24f-35a9-404b-b28a-ba5d20528acb-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-bfdb9700-e62c-4a9c-bc17-7c83e76336c2-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-939ca24f-35a9-404b-b28a-ba5d20528acb-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-bfdb9700-e62c-4a9c-bc17-7c83e76336c2-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -4728,12 +4728,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-741cb978-2912-4ecc-b2b2-961522215500-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-9c2dc0ae-f1ae-40df-a7be-2dc9644796f6-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-741cb978-2912-4ecc-b2b2-961522215500-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-9c2dc0ae-f1ae-40df-a7be-2dc9644796f6-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-741cb978-2912-4ecc-b2b2-961522215500-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-9c2dc0ae-f1ae-40df-a7be-2dc9644796f6-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -4868,12 +4868,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-47a8f8ce-8dfc-4f7e-a3b8-2c76b2aab150-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-7afa0b33-b2c4-421f-bd42-5da547d05998-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-47a8f8ce-8dfc-4f7e-a3b8-2c76b2aab150-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-7afa0b33-b2c4-421f-bd42-5da547d05998-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-47a8f8ce-8dfc-4f7e-a3b8-2c76b2aab150-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-7afa0b33-b2c4-421f-bd42-5da547d05998-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -5022,12 +5022,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-3aae676e-3f8e-4443-bb2c-e290815b3bf8-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-33e2f25f-1ea0-44e0-b17a-2b485b1e33be-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-3aae676e-3f8e-4443-bb2c-e290815b3bf8-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-33e2f25f-1ea0-44e0-b17a-2b485b1e33be-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-3aae676e-3f8e-4443-bb2c-e290815b3bf8-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-33e2f25f-1ea0-44e0-b17a-2b485b1e33be-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -5162,12 +5162,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-0eb0d487-26b7-49f8-9ece-0179bd0600ab-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-0a06312b-0264-456f-b25e-2f21f385c25d-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-0eb0d487-26b7-49f8-9ece-0179bd0600ab-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-0eb0d487-26b7-49f8-9ece-0179bd0600ab-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-0a06312b-0264-456f-b25e-2f21f385c25d-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-0a06312b-0264-456f-b25e-2f21f385c25d-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -6041,12 +6041,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-fd9b34e3-164a-4d60-bdde-8a61e7518556-table-row\"]/td/div/span[2]/div",
+      "Target": "xpath=//*[@id=\"collectible-94dee40c-1055-4ca9-b14f-6803e0f859db-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-fd9b34e3-164a-4d60-bdde-8a61e7518556-table-row\"]/td/div/span[2]/div",
-        "xpath=//tr[6]/td/div/span[2]/div",
-        "css=#collectible-fd9b34e3-164a-4d60-bdde-8a61e7518556-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
+        "xpath=//*[@id=\"collectible-94dee40c-1055-4ca9-b14f-6803e0f859db-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-94dee40c-1055-4ca9-b14f-6803e0f859db-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -7099,12 +7099,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-c5ad1376-a3c5-4950-892f-e7a2cb90cacf-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-26091392-94d9-43e4-9902-5032bd200558-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-c5ad1376-a3c5-4950-892f-e7a2cb90cacf-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-26091392-94d9-43e4-9902-5032bd200558-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-c5ad1376-a3c5-4950-892f-e7a2cb90cacf-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-26091392-94d9-43e4-9902-5032bd200558-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -7239,12 +7239,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-6bf94816-c315-42d1-a39a-da4652a0a027-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-8a9bbc7c-10d7-4ab7-a48b-0ddd1f300778-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-6bf94816-c315-42d1-a39a-da4652a0a027-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-6bf94816-c315-42d1-a39a-da4652a0a027-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-8a9bbc7c-10d7-4ab7-a48b-0ddd1f300778-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[2]/td/div/span[2]/div",
+        "css=#collectible-8a9bbc7c-10d7-4ab7-a48b-0ddd1f300778-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -7379,12 +7379,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-e6a8a1e3-619a-4eb1-aa80-eb8395fa4476-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-e07bd02b-ea00-4070-995a-5dacb4a7aa03-table-row\"]/td/div/span[2]/div/div[2]",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-e6a8a1e3-619a-4eb1-aa80-eb8395fa4476-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-e6a8a1e3-619a-4eb1-aa80-eb8395fa4476-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-e07bd02b-ea00-4070-995a-5dacb4a7aa03-table-row\"]/td/div/span[2]/div/div[2]",
+        "xpath=//tr[3]/td/div/span[2]/div/div[2]",
+        "css=#collectible-e07bd02b-ea00-4070-995a-5dacb4a7aa03-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5"
       ],
       "Description": ""
     },
@@ -7430,6 +7430,146 @@
       "Command": "type",
       "Target": "id=storefront-enabled-input",
       "Value": "2025-10-08T09:00:00.000Z",
+      "Targets": [
+        "id=storefront-enabled-input",
+        "name=collectible[storefront_enabled]",
+        "xpath=//*[@id=\"storefront-enabled-input\"]",
+        "xpath=//input[@id='storefront-enabled-input']",
+        "xpath=//div/input",
+        "css=#storefront-enabled-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_price",
+      "Value": "10",
+      "Targets": [
+        "id=collectible_storefront_price",
+        "name=collectible[storefront_price]",
+        "xpath=//*[@id=\"collectible_storefront_price\"]",
+        "xpath=//input[@id='collectible_storefront_price']",
+        "xpath=//div[3]/div/div/input",
+        "css=#collectible_storefront_price"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_available_count",
+      "Value": "500",
+      "Targets": [
+        "id=collectible_storefront_available_count",
+        "name=collectible[storefront_available_count]",
+        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
+        "xpath=//input[@id='collectible_storefront_available_count']",
+        "xpath=//div[4]/div/div/input",
+        "css=#collectible_storefront_available_count"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=edit-deployment-submit-button",
+      "Value": "",
+      "Targets": [
+        "id=edit-deployment-submit-button",
+        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
+        "xpath=//button[@id='edit-deployment-submit-button']",
+        "xpath=//div[6]/button[2]",
+        "css=#edit-deployment-submit-button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[3]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"collectible-3ac7a543-fafb-4722-b292-e4f598fa6f29-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"collectible-3ac7a543-fafb-4722-b292-e4f598fa6f29-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-3ac7a543-fafb-4722-b292-e4f598fa6f29-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=buy-now",
+      "Value": "",
+      "Targets": [
+        "id=buy-now",
+        "xpath=//*[@id=\"buy-now\"]",
+        "xpath=//button[@id='buy-now']",
+        "xpath=//div[2]/div/button",
+        "css=#buy-now"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=disable-storefront",
+      "Value": "",
+      "Targets": [
+        "id=disable-storefront",
+        "xpath=//*[@id=\"disable-storefront\"]",
+        "xpath=//button[@id='disable-storefront']",
+        "xpath=//form/div/button",
+        "css=#disable-storefront"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+        "xpath=//input[@type='text']",
+        "xpath=//input[2]",
+        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=storefront-enabled-input",
+      "Value": "2025-10-08T09:15:00.000Z",
       "Targets": [
         "id=storefront-enabled-input",
         "name=collectible[storefront_enabled]",
@@ -7523,148 +7663,8 @@
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-a4eb0383-9fc0-4cd1-b940-aa90a598b7ee-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[7]/td/div/span[2]/div/div[2]/p",
         "css=#collectible-a4eb0383-9fc0-4cd1-b940-aa90a598b7ee-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=buy-now",
-      "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=disable-storefront",
-      "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
-      "Value": "2025-10-08T09:15:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
-      "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
-      "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
-      "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
-      "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-1c17bb0d-4891-459a-bf7f-6833f6e3b62a-table-row\"]/td/div/span[2]/div/div[2]/p",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-1c17bb0d-4891-459a-bf7f-6833f6e3b62a-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-1c17bb0d-4891-459a-bf7f-6833f6e3b62a-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -7799,12 +7799,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-5af6fa9f-d4ea-4e43-b55e-77b12a642a65-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-e6a8a1e3-619a-4eb1-aa80-eb8395fa4476-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-5af6fa9f-d4ea-4e43-b55e-77b12a642a65-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-5af6fa9f-d4ea-4e43-b55e-77b12a642a65-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-e6a8a1e3-619a-4eb1-aa80-eb8395fa4476-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[8]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-e6a8a1e3-619a-4eb1-aa80-eb8395fa4476-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -7978,12 +7978,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-5d75f3e3-11cd-43cd-8177-33b5b977b7fb-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-ff5dc330-9d72-4852-90fe-a026218a5d76-table-row\"]/td/div/span[2]/div/div[2]",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-5d75f3e3-11cd-43cd-8177-33b5b977b7fb-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-5d75f3e3-11cd-43cd-8177-33b5b977b7fb-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-ff5dc330-9d72-4852-90fe-a026218a5d76-table-row\"]/td/div/span[2]/div/div[2]",
+        "xpath=//span[2]/div/div[2]",
+        "css=#collectible-ff5dc330-9d72-4852-90fe-a026218a5d76-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5"
       ],
       "Description": ""
     },
@@ -8118,12 +8118,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-c96e3413-9042-4195-a0c9-c4e9e0a7f5c7-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-f9cbb19d-d101-4077-8729-c03d4037df01-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-c96e3413-9042-4195-a0c9-c4e9e0a7f5c7-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-f9cbb19d-d101-4077-8729-c03d4037df01-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-c96e3413-9042-4195-a0c9-c4e9e0a7f5c7-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-f9cbb19d-d101-4077-8729-c03d4037df01-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -8258,12 +8258,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-765d04f9-6a86-4a31-a7c0-de22a3e987e0-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-1c4c9caa-2be2-40ee-9853-82595a8c7065-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-765d04f9-6a86-4a31-a7c0-de22a3e987e0-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-1c4c9caa-2be2-40ee-9853-82595a8c7065-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-765d04f9-6a86-4a31-a7c0-de22a3e987e0-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-1c4c9caa-2be2-40ee-9853-82595a8c7065-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -8398,12 +8398,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-945c6f47-e05c-4b7a-813c-96c180ce7b47-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-ce6445cf-4df0-4453-a7a9-f352d9b64c0d-table-row\"]/td/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-945c6f47-e05c-4b7a-813c-96c180ce7b47-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-945c6f47-e05c-4b7a-813c-96c180ce7b47-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-ce6445cf-4df0-4453-a7a9-f352d9b64c0d-table-row\"]/td/div",
+        "xpath=//tr[4]/td/div",
+        "css=#collectible-ce6445cf-4df0-4453-a7a9-f352d9b64c0d-table-row > td:nth-child(1) > div"
       ],
       "Description": ""
     },
@@ -8538,12 +8538,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-da778547-9cc1-4c1a-baca-8f72aa0b13bd-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-dda97707-e915-46d3-8f26-df1685a054db-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-da778547-9cc1-4c1a-baca-8f72aa0b13bd-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-da778547-9cc1-4c1a-baca-8f72aa0b13bd-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-dda97707-e915-46d3-8f26-df1685a054db-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-dda97707-e915-46d3-8f26-df1685a054db-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -8678,12 +8678,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-bc959ee8-0e84-42f4-9dd6-6eb160c84099-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-da778547-9cc1-4c1a-baca-8f72aa0b13bd-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-bc959ee8-0e84-42f4-9dd6-6eb160c84099-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-bc959ee8-0e84-42f4-9dd6-6eb160c84099-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-da778547-9cc1-4c1a-baca-8f72aa0b13bd-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-da778547-9cc1-4c1a-baca-8f72aa0b13bd-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -9277,12 +9277,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-9223b55d-f87d-4833-a730-109bd2280c23-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-52466b32-e323-429b-9bb5-02b58542c0ca-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-9223b55d-f87d-4833-a730-109bd2280c23-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-9223b55d-f87d-4833-a730-109bd2280c23-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-52466b32-e323-429b-9bb5-02b58542c0ca-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-52466b32-e323-429b-9bb5-02b58542c0ca-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -9417,12 +9417,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-c4a92552-911d-4b16-a46c-b88d63079ea5-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-978c35a1-b895-4657-9492-670ef94cf2e5-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-c4a92552-911d-4b16-a46c-b88d63079ea5-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-c4a92552-911d-4b16-a46c-b88d63079ea5-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-978c35a1-b895-4657-9492-670ef94cf2e5-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//div[2]/p",
+        "css=#collectible-978c35a1-b895-4657-9492-670ef94cf2e5-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -9736,12 +9736,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-4c8e0c02-d1d4-4cc1-b473-d4757e858fd0-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-36d37b85-7ed5-42f7-9db6-c0130c92199a-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-4c8e0c02-d1d4-4cc1-b473-d4757e858fd0-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-36d37b85-7ed5-42f7-9db6-c0130c92199a-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-4c8e0c02-d1d4-4cc1-b473-d4757e858fd0-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-36d37b85-7ed5-42f7-9db6-c0130c92199a-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -9876,12 +9876,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-ed7c1396-b1f9-4182-9aae-db1261bf6831-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-e7c5faee-c9c2-437b-839c-c66087397c9b-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-ed7c1396-b1f9-4182-9aae-db1261bf6831-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-e7c5faee-c9c2-437b-839c-c66087397c9b-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-ed7c1396-b1f9-4182-9aae-db1261bf6831-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-e7c5faee-c9c2-437b-839c-c66087397c9b-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -10016,12 +10016,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-a9a8de68-5ed8-4518-9955-82a3a2b09987-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-47588f6d-eea4-45e4-9f5e-ee9aefdb51ce-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-a9a8de68-5ed8-4518-9955-82a3a2b09987-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-47588f6d-eea4-45e4-9f5e-ee9aefdb51ce-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-a9a8de68-5ed8-4518-9955-82a3a2b09987-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-47588f6d-eea4-45e4-9f5e-ee9aefdb51ce-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -10156,12 +10156,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-49ce4449-81d4-4a3b-94c3-3d972542347c-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-4b17c3cd-0e6c-49ff-9e4d-6bd63ffbcc72-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-49ce4449-81d4-4a3b-94c3-3d972542347c-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-4b17c3cd-0e6c-49ff-9e4d-6bd63ffbcc72-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-49ce4449-81d4-4a3b-94c3-3d972542347c-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-4b17c3cd-0e6c-49ff-9e4d-6bd63ffbcc72-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -10296,12 +10296,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-a74dbc7e-dc09-4179-89cd-351599d5c912-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-742f4039-2745-46e8-9c31-3c3b8b26d405-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-a74dbc7e-dc09-4179-89cd-351599d5c912-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-742f4039-2745-46e8-9c31-3c3b8b26d405-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-a74dbc7e-dc09-4179-89cd-351599d5c912-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-742f4039-2745-46e8-9c31-3c3b8b26d405-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -10436,12 +10436,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-78fd1507-30cf-4b9c-9f66-320c3ffb6721-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-3950de57-29ed-42fb-9982-e7bf6fb6af4d-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-78fd1507-30cf-4b9c-9f66-320c3ffb6721-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-3950de57-29ed-42fb-9982-e7bf6fb6af4d-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-78fd1507-30cf-4b9c-9f66-320c3ffb6721-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-3950de57-29ed-42fb-9982-e7bf6fb6af4d-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -10615,12 +10615,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-45dc4d56-4856-4604-8588-8985e382247d-table-row\"]/td/div/span[2]/div/div[2]",
+      "Target": "xpath=//*[@id=\"collectible-58d0733a-dab3-4a3a-9ee7-085f1bf36a8b-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-45dc4d56-4856-4604-8588-8985e382247d-table-row\"]/td/div/span[2]/div/div[2]",
-        "xpath=//span[2]/div/div[2]",
-        "css=#collectible-45dc4d56-4856-4604-8588-8985e382247d-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5"
+        "xpath=//*[@id=\"collectible-58d0733a-dab3-4a3a-9ee7-085f1bf36a8b-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//div[2]/p",
+        "css=#collectible-58d0733a-dab3-4a3a-9ee7-085f1bf36a8b-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -10761,12 +10761,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-124d14d9-abf5-4a4b-b323-fef375918fd3-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-4be3722b-c4e6-4894-bb25-c4a347f77e76-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-124d14d9-abf5-4a4b-b323-fef375918fd3-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-124d14d9-abf5-4a4b-b323-fef375918fd3-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-4be3722b-c4e6-4894-bb25-c4a347f77e76-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[2]/td/div/span[2]/div",
+        "css=#collectible-4be3722b-c4e6-4894-bb25-c4a347f77e76-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -10901,12 +10901,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-612499fe-17b6-4d8a-8b67-83a7c032b0c9-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-95726f85-ed3c-419c-a3b7-668e81995a55-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-612499fe-17b6-4d8a-8b67-83a7c032b0c9-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-612499fe-17b6-4d8a-8b67-83a7c032b0c9-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-95726f85-ed3c-419c-a3b7-668e81995a55-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[3]/td/div/span[2]/div",
+        "css=#collectible-95726f85-ed3c-419c-a3b7-668e81995a55-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -11041,12 +11041,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-5653717a-3886-42ec-a501-bdbf4c7687b7-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-4189f2ca-7937-4b67-afd6-99a9394756a9-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-5653717a-3886-42ec-a501-bdbf4c7687b7-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-4189f2ca-7937-4b67-afd6-99a9394756a9-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-5653717a-3886-42ec-a501-bdbf4c7687b7-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-4189f2ca-7937-4b67-afd6-99a9394756a9-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -11181,12 +11181,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-0345a781-2fc3-4f57-811a-e5f658f6c9d4-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-86430639-ef21-489c-92de-c152a6d95bbe-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-0345a781-2fc3-4f57-811a-e5f658f6c9d4-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-0345a781-2fc3-4f57-811a-e5f658f6c9d4-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-86430639-ef21-489c-92de-c152a6d95bbe-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[5]/td/div/span[2]/div",
+        "css=#collectible-86430639-ef21-489c-92de-c152a6d95bbe-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -11321,12 +11321,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-1a8af0e1-fb08-4f2c-b9a9-98eff1a1dd99-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-3cb349b6-e205-4d57-88cd-e92484549582-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-1a8af0e1-fb08-4f2c-b9a9-98eff1a1dd99-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-3cb349b6-e205-4d57-88cd-e92484549582-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-1a8af0e1-fb08-4f2c-b9a9-98eff1a1dd99-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-3cb349b6-e205-4d57-88cd-e92484549582-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -11500,12 +11500,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-57453a5e-c58c-4347-913d-5cf190cbf01c-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-ba3d3fbb-c7a8-47bb-b264-50a7eb2641c0-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-57453a5e-c58c-4347-913d-5cf190cbf01c-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-ba3d3fbb-c7a8-47bb-b264-50a7eb2641c0-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-57453a5e-c58c-4347-913d-5cf190cbf01c-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-ba3d3fbb-c7a8-47bb-b264-50a7eb2641c0-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -11640,12 +11640,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-2bd4e38d-67d1-4d8b-aefc-fa544cc5d1c7-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-50ebc493-8fef-4bab-92ae-056a4411cdd6-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-2bd4e38d-67d1-4d8b-aefc-fa544cc5d1c7-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-50ebc493-8fef-4bab-92ae-056a4411cdd6-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-2bd4e38d-67d1-4d8b-aefc-fa544cc5d1c7-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-50ebc493-8fef-4bab-92ae-056a4411cdd6-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -11780,12 +11780,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-9203624e-fc44-403b-8f14-dcd5358e309b-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-39a94227-3a55-4932-847e-b53dae12ad58-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-9203624e-fc44-403b-8f14-dcd5358e309b-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-9203624e-fc44-403b-8f14-dcd5358e309b-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-39a94227-3a55-4932-847e-b53dae12ad58-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[3]/td/div/span[2]/div",
+        "css=#collectible-39a94227-3a55-4932-847e-b53dae12ad58-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -11920,12 +11920,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-85c21f60-581b-4d70-b617-5140be4f8912-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-87e282a0-7767-45b5-8e99-fa217eb88e82-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-85c21f60-581b-4d70-b617-5140be4f8912-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-87e282a0-7767-45b5-8e99-fa217eb88e82-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-85c21f60-581b-4d70-b617-5140be4f8912-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-87e282a0-7767-45b5-8e99-fa217eb88e82-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -12060,12 +12060,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-9e54ddc3-2cc3-4d88-9dc5-52e0a813879e-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-e9b14ef9-1110-4d3c-bd3a-5f3242979d23-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-9e54ddc3-2cc3-4d88-9dc5-52e0a813879e-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-e9b14ef9-1110-4d3c-bd3a-5f3242979d23-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-9e54ddc3-2cc3-4d88-9dc5-52e0a813879e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-e9b14ef9-1110-4d3c-bd3a-5f3242979d23-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -12200,12 +12200,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-eef40eb4-00ff-4d94-8616-e7beebf570e0-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-ba97e9d7-fa22-410b-8b22-5170a44afc30-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-eef40eb4-00ff-4d94-8616-e7beebf570e0-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-ba97e9d7-fa22-410b-8b22-5170a44afc30-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-eef40eb4-00ff-4d94-8616-e7beebf570e0-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-ba97e9d7-fa22-410b-8b22-5170a44afc30-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -13258,12 +13258,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row\"]/td/div/span[2]/div/div[2]",
+      "Target": "xpath=//*[@id=\"collectible-f792be25-7bc2-4013-acb5-7e41da127422-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row\"]/td/div/span[2]/div/div[2]",
-        "xpath=//span[2]/div/div[2]",
-        "css=#collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5"
+        "xpath=//*[@id=\"collectible-f792be25-7bc2-4013-acb5-7e41da127422-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//div[2]/p",
+        "css=#collectible-f792be25-7bc2-4013-acb5-7e41da127422-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -13398,12 +13398,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -13538,12 +13538,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-e74ea548-4394-4984-b857-826f2faf0c93-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-e74ea548-4394-4984-b857-826f2faf0c93-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-e74ea548-4394-4984-b857-826f2faf0c93-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -13682,7 +13682,7 @@
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-fc9a4795-df7a-4faa-a673-29a72e6396e0-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[7]/td/div/span[2]/div/div[2]/p",
         "css=#collectible-fc9a4795-df7a-4faa-a673-29a72e6396e0-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
@@ -13736,6 +13736,17 @@
         "xpath=//input[@id='storefront-enabled-input']",
         "xpath=//div/input",
         "css=#storefront-enabled-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
       ],
       "Description": ""
     },
@@ -13811,7 +13822,7 @@
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-bba337f4-1788-44ca-9a20-909a0239b564-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[8]/td/div/span[2]/div/div[2]/p",
         "css=#collectible-bba337f4-1788-44ca-9a20-909a0239b564-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
@@ -13951,7 +13962,7 @@
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-f7b6fb1e-ec4c-4dbc-8026-025f79fe7da1-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[9]/td/div/span[2]/div/div[2]/p",
         "css=#collectible-f7b6fb1e-ec4c-4dbc-8026-025f79fe7da1-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
@@ -14126,12 +14137,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-c208fe93-657c-4073-96f8-b2a18a504e2e-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-7aaa47a4-2bbf-40a9-9cac-6dc213021354-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-c208fe93-657c-4073-96f8-b2a18a504e2e-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-7aaa47a4-2bbf-40a9-9cac-6dc213021354-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-c208fe93-657c-4073-96f8-b2a18a504e2e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-7aaa47a4-2bbf-40a9-9cac-6dc213021354-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -14177,6 +14188,426 @@
       "Command": "type",
       "Target": "id=storefront-enabled-input",
       "Value": "2025-10-08T09:00:00.000Z",
+      "Targets": [
+        "id=storefront-enabled-input",
+        "name=collectible[storefront_enabled]",
+        "xpath=//*[@id=\"storefront-enabled-input\"]",
+        "xpath=//input[@id='storefront-enabled-input']",
+        "xpath=//div/input",
+        "css=#storefront-enabled-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_price",
+      "Value": "10",
+      "Targets": [
+        "id=collectible_storefront_price",
+        "name=collectible[storefront_price]",
+        "xpath=//*[@id=\"collectible_storefront_price\"]",
+        "xpath=//input[@id='collectible_storefront_price']",
+        "xpath=//div[3]/div/div/input",
+        "css=#collectible_storefront_price"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_available_count",
+      "Value": "500",
+      "Targets": [
+        "id=collectible_storefront_available_count",
+        "name=collectible[storefront_available_count]",
+        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
+        "xpath=//input[@id='collectible_storefront_available_count']",
+        "xpath=//div[4]/div/div/input",
+        "css=#collectible_storefront_available_count"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=edit-deployment-submit-button",
+      "Value": "",
+      "Targets": [
+        "id=edit-deployment-submit-button",
+        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
+        "xpath=//button[@id='edit-deployment-submit-button']",
+        "xpath=//div[6]/button[2]",
+        "css=#edit-deployment-submit-button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[3]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"collectible-7de284a5-6be4-4b87-a49f-2ba3155dc0ef-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"collectible-7de284a5-6be4-4b87-a49f-2ba3155dc0ef-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-7de284a5-6be4-4b87-a49f-2ba3155dc0ef-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=buy-now",
+      "Value": "",
+      "Targets": [
+        "id=buy-now",
+        "xpath=//*[@id=\"buy-now\"]",
+        "xpath=//button[@id='buy-now']",
+        "xpath=//div[2]/div/button",
+        "css=#buy-now"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=disable-storefront",
+      "Value": "",
+      "Targets": [
+        "id=disable-storefront",
+        "xpath=//*[@id=\"disable-storefront\"]",
+        "xpath=//button[@id='disable-storefront']",
+        "xpath=//form/div/button",
+        "css=#disable-storefront"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+        "xpath=//input[@type='text']",
+        "xpath=//input[2]",
+        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=storefront-enabled-input",
+      "Value": "2025-10-08T09:15:00.000Z",
+      "Targets": [
+        "id=storefront-enabled-input",
+        "name=collectible[storefront_enabled]",
+        "xpath=//*[@id=\"storefront-enabled-input\"]",
+        "xpath=//input[@id='storefront-enabled-input']",
+        "xpath=//div/input",
+        "css=#storefront-enabled-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_price",
+      "Value": "10",
+      "Targets": [
+        "id=collectible_storefront_price",
+        "name=collectible[storefront_price]",
+        "xpath=//*[@id=\"collectible_storefront_price\"]",
+        "xpath=//input[@id='collectible_storefront_price']",
+        "xpath=//div[3]/div/div/input",
+        "css=#collectible_storefront_price"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_available_count",
+      "Value": "500",
+      "Targets": [
+        "id=collectible_storefront_available_count",
+        "name=collectible[storefront_available_count]",
+        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
+        "xpath=//input[@id='collectible_storefront_available_count']",
+        "xpath=//div[4]/div/div/input",
+        "css=#collectible_storefront_available_count"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=edit-deployment-submit-button",
+      "Value": "",
+      "Targets": [
+        "id=edit-deployment-submit-button",
+        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
+        "xpath=//button[@id='edit-deployment-submit-button']",
+        "xpath=//div[6]/button[2]",
+        "css=#edit-deployment-submit-button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[3]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"collectible-7c85e946-566c-44ab-afd4-f43d3ac0ebd8-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"collectible-7c85e946-566c-44ab-afd4-f43d3ac0ebd8-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-7c85e946-566c-44ab-afd4-f43d3ac0ebd8-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=buy-now",
+      "Value": "",
+      "Targets": [
+        "id=buy-now",
+        "xpath=//*[@id=\"buy-now\"]",
+        "xpath=//button[@id='buy-now']",
+        "xpath=//div[2]/div/button",
+        "css=#buy-now"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=disable-storefront",
+      "Value": "",
+      "Targets": [
+        "id=disable-storefront",
+        "xpath=//*[@id=\"disable-storefront\"]",
+        "xpath=//button[@id='disable-storefront']",
+        "xpath=//form/div/button",
+        "css=#disable-storefront"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+        "xpath=//input[@type='text']",
+        "xpath=//input[2]",
+        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=storefront-enabled-input",
+      "Value": "2025-10-08T09:00:00.000Z",
+      "Targets": [
+        "id=storefront-enabled-input",
+        "name=collectible[storefront_enabled]",
+        "xpath=//*[@id=\"storefront-enabled-input\"]",
+        "xpath=//input[@id='storefront-enabled-input']",
+        "xpath=//div/input",
+        "css=#storefront-enabled-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_price",
+      "Value": "10",
+      "Targets": [
+        "id=collectible_storefront_price",
+        "name=collectible[storefront_price]",
+        "xpath=//*[@id=\"collectible_storefront_price\"]",
+        "xpath=//input[@id='collectible_storefront_price']",
+        "xpath=//div[3]/div/div/input",
+        "css=#collectible_storefront_price"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_available_count",
+      "Value": "500",
+      "Targets": [
+        "id=collectible_storefront_available_count",
+        "name=collectible[storefront_available_count]",
+        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
+        "xpath=//input[@id='collectible_storefront_available_count']",
+        "xpath=//div[4]/div/div/input",
+        "css=#collectible_storefront_available_count"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=edit-deployment-submit-button",
+      "Value": "",
+      "Targets": [
+        "id=edit-deployment-submit-button",
+        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
+        "xpath=//button[@id='edit-deployment-submit-button']",
+        "xpath=//div[6]/button[2]",
+        "css=#edit-deployment-submit-button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[3]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"collectible-c208fe93-657c-4073-96f8-b2a18a504e2e-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"collectible-c208fe93-657c-4073-96f8-b2a18a504e2e-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-c208fe93-657c-4073-96f8-b2a18a504e2e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=buy-now",
+      "Value": "",
+      "Targets": [
+        "id=buy-now",
+        "xpath=//*[@id=\"buy-now\"]",
+        "xpath=//button[@id='buy-now']",
+        "xpath=//div[2]/div/button",
+        "css=#buy-now"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=disable-storefront",
+      "Value": "",
+      "Targets": [
+        "id=disable-storefront",
+        "xpath=//*[@id=\"disable-storefront\"]",
+        "xpath=//button[@id='disable-storefront']",
+        "xpath=//form/div/button",
+        "css=#disable-storefront"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+        "xpath=//input[@type='text']",
+        "xpath=//input[2]",
+        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=storefront-enabled-input",
+      "Value": "2025-10-08T09:15:00.000Z",
       "Targets": [
         "id=storefront-enabled-input",
         "name=collectible[storefront_enabled]",
@@ -14270,428 +14701,8 @@
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-ae5008ca-2d8e-4e43-8f28-f140e19c4448-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-ae5008ca-2d8e-4e43-8f28-f140e19c4448-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=buy-now",
-      "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=disable-storefront",
-      "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
-      "Value": "2025-10-08T09:15:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
-      "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
-      "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
-      "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
-      "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-19119748-293b-4951-9b6a-e8277bb44393-table-row\"]/td/div/span[2]/div/div[2]/p",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-19119748-293b-4951-9b6a-e8277bb44393-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-19119748-293b-4951-9b6a-e8277bb44393-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=buy-now",
-      "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=disable-storefront",
-      "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
-      "Value": "2025-10-08T09:00:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
-      "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
-      "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
-      "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
-      "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-8b1dcc3c-cc20-4672-9c1b-37904666567c-table-row\"]/td/div/span[2]/div/div[2]/p",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-8b1dcc3c-cc20-4672-9c1b-37904666567c-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-8b1dcc3c-cc20-4672-9c1b-37904666567c-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=buy-now",
-      "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=disable-storefront",
-      "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
-      "Value": "2025-10-08T09:15:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
-      "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
-      "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
-      "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
-      "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-80fa63ea-8576-411b-afd1-2bcc5ae17a0b-table-row\"]/td/div/span[2]/div/div[2]/p",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-80fa63ea-8576-411b-afd1-2bcc5ae17a0b-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-80fa63ea-8576-411b-afd1-2bcc5ae17a0b-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-ae5008ca-2d8e-4e43-8f28-f140e19c4448-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -14826,12 +14837,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-b588a906-d5fc-4cf8-9700-99224ca88965-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-19119748-293b-4951-9b6a-e8277bb44393-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-b588a906-d5fc-4cf8-9700-99224ca88965-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-19119748-293b-4951-9b6a-e8277bb44393-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-b588a906-d5fc-4cf8-9700-99224ca88965-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-19119748-293b-4951-9b6a-e8277bb44393-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -15005,12 +15016,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-a172f9e5-2ffd-430f-8c0d-2b2ba05b7b39-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-8941c991-3ef7-4b6b-bb75-d49af3296848-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-a172f9e5-2ffd-430f-8c0d-2b2ba05b7b39-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-8941c991-3ef7-4b6b-bb75-d49af3296848-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-a172f9e5-2ffd-430f-8c0d-2b2ba05b7b39-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-8941c991-3ef7-4b6b-bb75-d49af3296848-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -15145,12 +15156,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-45363cba-0cfc-4e15-acc3-ae047cc4cc94-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-f0668b5d-ef14-4ab5-83c7-086c80d05162-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-45363cba-0cfc-4e15-acc3-ae047cc4cc94-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-f0668b5d-ef14-4ab5-83c7-086c80d05162-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-45363cba-0cfc-4e15-acc3-ae047cc4cc94-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-f0668b5d-ef14-4ab5-83c7-086c80d05162-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -15285,12 +15296,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-60badce5-3120-4059-b937-6001a5ebe215-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-da793a74-fc24-4270-951a-2101fb4b4537-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-60badce5-3120-4059-b937-6001a5ebe215-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-da793a74-fc24-4270-951a-2101fb4b4537-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-60badce5-3120-4059-b937-6001a5ebe215-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-da793a74-fc24-4270-951a-2101fb4b4537-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -15425,12 +15436,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-f432e3a5-ba10-4c6e-b899-2651799bdb31-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-c7a81e97-d9ea-49d0-a0fc-bc63cd31152e-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-f432e3a5-ba10-4c6e-b899-2651799bdb31-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-f432e3a5-ba10-4c6e-b899-2651799bdb31-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-c7a81e97-d9ea-49d0-a0fc-bc63cd31152e-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-c7a81e97-d9ea-49d0-a0fc-bc63cd31152e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -15565,12 +15576,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-24f22bf6-747d-4a5f-aa5d-76e5aa256d86-table-row\"]/td/div/span[2]/div",
+      "Target": "xpath=//*[@id=\"collectible-7694e19e-9281-47ee-8c70-1e35c2669d69-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-24f22bf6-747d-4a5f-aa5d-76e5aa256d86-table-row\"]/td/div/span[2]/div",
-        "xpath=//tr[2]/td/div/span[2]/div",
-        "css=#collectible-24f22bf6-747d-4a5f-aa5d-76e5aa256d86-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
+        "xpath=//*[@id=\"collectible-7694e19e-9281-47ee-8c70-1e35c2669d69-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-7694e19e-9281-47ee-8c70-1e35c2669d69-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -15705,12 +15716,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-89a7caa6-33d0-450b-af29-56a227bc00f6-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-76e9e4af-e308-48cd-8816-7b277822d7c7-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-89a7caa6-33d0-450b-af29-56a227bc00f6-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-89a7caa6-33d0-450b-af29-56a227bc00f6-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-76e9e4af-e308-48cd-8816-7b277822d7c7-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-76e9e4af-e308-48cd-8816-7b277822d7c7-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -16763,12 +16774,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-a7f7bbcb-455e-4ddd-933b-4ed4307b5c99-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-76ec1fc3-d855-4090-8850-421672638ae2-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-a7f7bbcb-455e-4ddd-933b-4ed4307b5c99-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-76ec1fc3-d855-4090-8850-421672638ae2-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-a7f7bbcb-455e-4ddd-933b-4ed4307b5c99-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-76ec1fc3-d855-4090-8850-421672638ae2-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -16903,12 +16914,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-b057d16c-0a3f-40ac-bafd-38d57ede4ebf-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-717ceec7-b60e-42cc-a054-591fa05faf17-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-b057d16c-0a3f-40ac-bafd-38d57ede4ebf-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-717ceec7-b60e-42cc-a054-591fa05faf17-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-b057d16c-0a3f-40ac-bafd-38d57ede4ebf-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-717ceec7-b60e-42cc-a054-591fa05faf17-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -17043,12 +17054,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-de4637b0-ad92-4232-9f5e-f1f77d4c72f3-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-5146c326-7f97-4524-bf3d-74b04a01d38a-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-de4637b0-ad92-4232-9f5e-f1f77d4c72f3-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-de4637b0-ad92-4232-9f5e-f1f77d4c72f3-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-5146c326-7f97-4524-bf3d-74b04a01d38a-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[3]/td/div/span[2]/div",
+        "css=#collectible-5146c326-7f97-4524-bf3d-74b04a01d38a-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -17183,12 +17194,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-be7ba952-0181-4419-8fd7-b377275ebf2e-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-06ad5e7b-39a2-4351-946b-6fa37eef7458-table-row\"]/td/div/span[2]/div/div[2]",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-be7ba952-0181-4419-8fd7-b377275ebf2e-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-be7ba952-0181-4419-8fd7-b377275ebf2e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-06ad5e7b-39a2-4351-946b-6fa37eef7458-table-row\"]/td/div/span[2]/div/div[2]",
+        "xpath=//tr[4]/td/div/span[2]/div/div[2]",
+        "css=#collectible-06ad5e7b-39a2-4351-946b-6fa37eef7458-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5"
       ],
       "Description": ""
     },
@@ -17312,12 +17323,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-fa8882ad-0c50-434a-9e29-cf64f191d084-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-e6c95f46-aaa0-47cc-9ced-536780d0949a-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-fa8882ad-0c50-434a-9e29-cf64f191d084-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[8]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-fa8882ad-0c50-434a-9e29-cf64f191d084-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-e6c95f46-aaa0-47cc-9ced-536780d0949a-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-e6c95f46-aaa0-47cc-9ced-536780d0949a-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -17452,12 +17463,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-10862351-4113-477d-ad5c-dbb46b966cbb-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-6e7d131f-5fc8-4dd5-b9f1-24261a295170-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-10862351-4113-477d-ad5c-dbb46b966cbb-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-10862351-4113-477d-ad5c-dbb46b966cbb-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-6e7d131f-5fc8-4dd5-b9f1-24261a295170-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[6]/td/div/span[2]/div",
+        "css=#collectible-6e7d131f-5fc8-4dd5-b9f1-24261a295170-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -17613,7 +17624,7 @@
     },
     {
       "Command": "pause",
-      "Target": "1200000",
+      "Target": "1000000",
       "Value": "",
       "Description": ""
     }
