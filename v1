@@ -1,6 +1,6 @@
 {
   "Name": "macro drop-v2",
-  "CreationDate": "2026-1-9",
+  "CreationDate": "2026-1-12",
   "Commands": [
     {
       "Command": "pause",
@@ -3563,12 +3563,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-b0c60a46-9126-4bc5-9985-f4e63e197a56-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-80002758-c649-4a89-b4e1-21217e670fde-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-b0c60a46-9126-4bc5-9985-f4e63e197a56-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-80002758-c649-4a89-b4e1-21217e670fde-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-b0c60a46-9126-4bc5-9985-f4e63e197a56-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-80002758-c649-4a89-b4e1-21217e670fde-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -3703,12 +3703,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-8b8062a8-fc73-4a61-b6e7-7cfedf21eabc-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-ab5d891e-098b-48e8-8173-60038df585b6-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-8b8062a8-fc73-4a61-b6e7-7cfedf21eabc-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-ab5d891e-098b-48e8-8173-60038df585b6-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-8b8062a8-fc73-4a61-b6e7-7cfedf21eabc-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-ab5d891e-098b-48e8-8173-60038df585b6-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -3843,12 +3843,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-1c2deb36-0e4b-4511-9294-835f10e74b48-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-ee9ada6d-f5f8-4453-a907-4ec8c8113834-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-1c2deb36-0e4b-4511-9294-835f10e74b48-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-ee9ada6d-f5f8-4453-a907-4ec8c8113834-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-1c2deb36-0e4b-4511-9294-835f10e74b48-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-ee9ada6d-f5f8-4453-a907-4ec8c8113834-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -3989,12 +3989,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-1fbc351d-e9d5-480f-80bd-33cee8f983f6-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-7e42121c-b02e-4359-af35-e53a03a4cbd0-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-1fbc351d-e9d5-480f-80bd-33cee8f983f6-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-7e42121c-b02e-4359-af35-e53a03a4cbd0-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-1fbc351d-e9d5-480f-80bd-33cee8f983f6-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-7e42121c-b02e-4359-af35-e53a03a4cbd0-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -4129,12 +4129,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-24f055f1-eaff-4781-8904-e5c19834fb01-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-a37ff0ad-c913-4991-a9df-d31e9afd03d2-table-row\"]/td/div/span[2]/div/div[2]",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-24f055f1-eaff-4781-8904-e5c19834fb01-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-24f055f1-eaff-4781-8904-e5c19834fb01-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-a37ff0ad-c913-4991-a9df-d31e9afd03d2-table-row\"]/td/div/span[2]/div/div[2]",
+        "xpath=//tr[5]/td/div/span[2]/div/div[2]",
+        "css=#collectible-a37ff0ad-c913-4991-a9df-d31e9afd03d2-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5"
       ],
       "Description": ""
     },
@@ -4269,12 +4269,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-99bf98ba-61e6-422a-8c84-9943c7d911b3-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-75d8b372-df83-446f-9374-fe29a28c3f96-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-99bf98ba-61e6-422a-8c84-9943c7d911b3-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-75d8b372-df83-446f-9374-fe29a28c3f96-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-99bf98ba-61e6-422a-8c84-9943c7d911b3-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-75d8b372-df83-446f-9374-fe29a28c3f96-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -5341,12 +5341,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-7e473c46-cb02-440a-9cbb-f2e565be65dd-table-row\"]/td/div/span",
+      "Target": "xpath=//*[@id=\"collectible-1101e9a2-bdc4-45db-8000-01003a948c16-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-7e473c46-cb02-440a-9cbb-f2e565be65dd-table-row\"]/td/div/span",
-        "xpath=//div/span",
-        "css=#collectible-7e473c46-cb02-440a-9cbb-f2e565be65dd-table-row > td:nth-child(1) > div > span.absolute.-inset-y-px.right-0.-left-4"
+        "xpath=//*[@id=\"collectible-1101e9a2-bdc4-45db-8000-01003a948c16-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//div[2]/p",
+        "css=#collectible-1101e9a2-bdc4-45db-8000-01003a948c16-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -5481,12 +5481,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-a06b3325-9e86-4b1d-a275-9c5ed36f044c-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-6d310e65-214b-421d-820d-23078f41654b-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-a06b3325-9e86-4b1d-a275-9c5ed36f044c-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-6d310e65-214b-421d-820d-23078f41654b-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-a06b3325-9e86-4b1d-a275-9c5ed36f044c-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-6d310e65-214b-421d-820d-23078f41654b-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -5621,12 +5621,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-7d81a286-1b4e-4bb4-97df-81cba2a34af8-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-603ba6f5-2f79-40df-901f-4416328b3f74-table-row\"]/td/div/span",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-7d81a286-1b4e-4bb4-97df-81cba2a34af8-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-7d81a286-1b4e-4bb4-97df-81cba2a34af8-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-603ba6f5-2f79-40df-901f-4416328b3f74-table-row\"]/td/div/span",
+        "xpath=//tr[3]/td/div/span",
+        "css=#collectible-603ba6f5-2f79-40df-901f-4416328b3f74-table-row > td:nth-child(1) > div > span.absolute.-inset-y-px.right-0.-left-4"
       ],
       "Description": ""
     },
@@ -5761,12 +5761,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-c4d78ea5-d3c2-447a-9db8-e7a3d45c7e44-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-97c05909-a380-4005-a539-26b719da11db-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-c4d78ea5-d3c2-447a-9db8-e7a3d45c7e44-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-97c05909-a380-4005-a539-26b719da11db-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-c4d78ea5-d3c2-447a-9db8-e7a3d45c7e44-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-97c05909-a380-4005-a539-26b719da11db-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -5901,12 +5901,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-6c14c6af-396b-4201-a988-651640e09232-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-59e8c9b0-79c8-48e5-936d-4ee5394409a9-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-6c14c6af-396b-4201-a988-651640e09232-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-59e8c9b0-79c8-48e5-936d-4ee5394409a9-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-6c14c6af-396b-4201-a988-651640e09232-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-59e8c9b0-79c8-48e5-936d-4ee5394409a9-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -6041,12 +6041,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-94dee40c-1055-4ca9-b14f-6803e0f859db-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-6b5ee4d7-dec5-4a33-a53e-85f922a4ce98-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-94dee40c-1055-4ca9-b14f-6803e0f859db-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-94dee40c-1055-4ca9-b14f-6803e0f859db-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-6b5ee4d7-dec5-4a33-a53e-85f922a4ce98-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-6b5ee4d7-dec5-4a33-a53e-85f922a4ce98-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -7099,11 +7099,291 @@
     },
     {
       "Command": "click",
+      "Target": "xpath=//*[@id=\"collectible-d52d6630-4f20-40ad-a83c-1132cc5eb4bc-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"collectible-d52d6630-4f20-40ad-a83c-1132cc5eb4bc-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//div[2]/p",
+        "css=#collectible-d52d6630-4f20-40ad-a83c-1132cc5eb4bc-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=buy-now",
+      "Value": "",
+      "Targets": [
+        "id=buy-now",
+        "xpath=//*[@id=\"buy-now\"]",
+        "xpath=//button[@id='buy-now']",
+        "xpath=//div[2]/div/button",
+        "css=#buy-now"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=disable-storefront",
+      "Value": "",
+      "Targets": [
+        "id=disable-storefront",
+        "xpath=//*[@id=\"disable-storefront\"]",
+        "xpath=//button[@id='disable-storefront']",
+        "xpath=//form/div/button",
+        "css=#disable-storefront"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+        "xpath=//input[@type='text']",
+        "xpath=//input[2]",
+        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=storefront-enabled-input",
+      "Value": "2025-10-08T09:00:00.000Z",
+      "Targets": [
+        "id=storefront-enabled-input",
+        "name=collectible[storefront_enabled]",
+        "xpath=//*[@id=\"storefront-enabled-input\"]",
+        "xpath=//input[@id='storefront-enabled-input']",
+        "xpath=//div/input",
+        "css=#storefront-enabled-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_price",
+      "Value": "10",
+      "Targets": [
+        "id=collectible_storefront_price",
+        "name=collectible[storefront_price]",
+        "xpath=//*[@id=\"collectible_storefront_price\"]",
+        "xpath=//input[@id='collectible_storefront_price']",
+        "xpath=//div[3]/div/div/input",
+        "css=#collectible_storefront_price"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_available_count",
+      "Value": "500",
+      "Targets": [
+        "id=collectible_storefront_available_count",
+        "name=collectible[storefront_available_count]",
+        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
+        "xpath=//input[@id='collectible_storefront_available_count']",
+        "xpath=//div[4]/div/div/input",
+        "css=#collectible_storefront_available_count"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=edit-deployment-submit-button",
+      "Value": "",
+      "Targets": [
+        "id=edit-deployment-submit-button",
+        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
+        "xpath=//button[@id='edit-deployment-submit-button']",
+        "xpath=//div[6]/button[2]",
+        "css=#edit-deployment-submit-button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[3]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"collectible-d743f3df-2418-4d51-a51f-2f3984b0f881-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"collectible-d743f3df-2418-4d51-a51f-2f3984b0f881-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-d743f3df-2418-4d51-a51f-2f3984b0f881-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=buy-now",
+      "Value": "",
+      "Targets": [
+        "id=buy-now",
+        "xpath=//*[@id=\"buy-now\"]",
+        "xpath=//button[@id='buy-now']",
+        "xpath=//div[2]/div/button",
+        "css=#buy-now"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=disable-storefront",
+      "Value": "",
+      "Targets": [
+        "id=disable-storefront",
+        "xpath=//*[@id=\"disable-storefront\"]",
+        "xpath=//button[@id='disable-storefront']",
+        "xpath=//form/div/button",
+        "css=#disable-storefront"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+        "xpath=//input[@type='text']",
+        "xpath=//input[2]",
+        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=storefront-enabled-input",
+      "Value": "2025-10-08T09:15:00.000Z",
+      "Targets": [
+        "id=storefront-enabled-input",
+        "name=collectible[storefront_enabled]",
+        "xpath=//*[@id=\"storefront-enabled-input\"]",
+        "xpath=//input[@id='storefront-enabled-input']",
+        "xpath=//div/input",
+        "css=#storefront-enabled-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/div[2]/div[3]/div[2]/span",
+        "xpath=//div[2]/span",
+        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_price",
+      "Value": "10",
+      "Targets": [
+        "id=collectible_storefront_price",
+        "name=collectible[storefront_price]",
+        "xpath=//*[@id=\"collectible_storefront_price\"]",
+        "xpath=//input[@id='collectible_storefront_price']",
+        "xpath=//div[3]/div/div/input",
+        "css=#collectible_storefront_price"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=collectible_storefront_available_count",
+      "Value": "500",
+      "Targets": [
+        "id=collectible_storefront_available_count",
+        "name=collectible[storefront_available_count]",
+        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
+        "xpath=//input[@id='collectible_storefront_available_count']",
+        "xpath=//div[4]/div/div/input",
+        "css=#collectible_storefront_available_count"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=edit-deployment-submit-button",
+      "Value": "",
+      "Targets": [
+        "id=edit-deployment-submit-button",
+        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
+        "xpath=//button[@id='edit-deployment-submit-button']",
+        "xpath=//div[6]/button[2]",
+        "css=#edit-deployment-submit-button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[3]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
       "Target": "xpath=//*[@id=\"collectible-26091392-94d9-43e4-9902-5032bd200558-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-26091392-94d9-43e4-9902-5032bd200558-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
+        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
         "css=#collectible-26091392-94d9-43e4-9902-5032bd200558-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
@@ -7239,292 +7519,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-8a9bbc7c-10d7-4ab7-a48b-0ddd1f300778-table-row\"]/td/div/span[2]/div",
+      "Target": "xpath=//*[@id=\"collectible-8a9bbc7c-10d7-4ab7-a48b-0ddd1f300778-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-8a9bbc7c-10d7-4ab7-a48b-0ddd1f300778-table-row\"]/td/div/span[2]/div",
-        "xpath=//tr[2]/td/div/span[2]/div",
-        "css=#collectible-8a9bbc7c-10d7-4ab7-a48b-0ddd1f300778-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=buy-now",
-      "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=disable-storefront",
-      "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
-      "Value": "2025-10-08T09:15:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
-      "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
-      "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
-      "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
-      "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-e07bd02b-ea00-4070-995a-5dacb4a7aa03-table-row\"]/td/div/span[2]/div/div[2]",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-e07bd02b-ea00-4070-995a-5dacb4a7aa03-table-row\"]/td/div/span[2]/div/div[2]",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]",
-        "css=#collectible-e07bd02b-ea00-4070-995a-5dacb4a7aa03-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=buy-now",
-      "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=disable-storefront",
-      "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
-      "Value": "2025-10-08T09:00:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
-      "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
-      "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
-      "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
-      "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
-      "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-3ac7a543-fafb-4722-b292-e4f598fa6f29-table-row\"]/td/div/span[2]/div/div[2]/p",
-      "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-3ac7a543-fafb-4722-b292-e4f598fa6f29-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-8a9bbc7c-10d7-4ab7-a48b-0ddd1f300778-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-3ac7a543-fafb-4722-b292-e4f598fa6f29-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-8a9bbc7c-10d7-4ab7-a48b-0ddd1f300778-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -7659,12 +7659,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-a4eb0383-9fc0-4cd1-b940-aa90a598b7ee-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-e07bd02b-ea00-4070-995a-5dacb4a7aa03-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-a4eb0383-9fc0-4cd1-b940-aa90a598b7ee-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[7]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-a4eb0383-9fc0-4cd1-b940-aa90a598b7ee-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-e07bd02b-ea00-4070-995a-5dacb4a7aa03-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-e07bd02b-ea00-4070-995a-5dacb4a7aa03-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -7799,12 +7799,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-e6a8a1e3-619a-4eb1-aa80-eb8395fa4476-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-3ac7a543-fafb-4722-b292-e4f598fa6f29-table-row\"]/td/div/span[2]/div",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-e6a8a1e3-619a-4eb1-aa80-eb8395fa4476-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[8]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-e6a8a1e3-619a-4eb1-aa80-eb8395fa4476-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-3ac7a543-fafb-4722-b292-e4f598fa6f29-table-row\"]/td/div/span[2]/div",
+        "xpath=//tr[6]/td/div/span[2]/div",
+        "css=#collectible-3ac7a543-fafb-4722-b292-e4f598fa6f29-table-row > td:nth-child(1) > div > span.relative.font-semibold > div"
       ],
       "Description": ""
     },
@@ -13344,7 +13344,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "11",
+      "Value": "10",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13484,7 +13484,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "11",
+      "Value": "10",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13624,7 +13624,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "11",
+      "Value": "10",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13764,7 +13764,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "11",
+      "Value": "10",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -13904,7 +13904,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "11",
+      "Value": "10",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
@@ -14044,7 +14044,7 @@
     {
       "Command": "type",
       "Target": "id=collectible_storefront_price",
-      "Value": "11",
+      "Value": "10",
       "Targets": [
         "id=collectible_storefront_price",
         "name=collectible[storefront_price]",
