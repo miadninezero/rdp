@@ -1,6 +1,6 @@
 {
   "Name": "macro drop-v2",
-  "CreationDate": "2026-1-12",
+  "CreationDate": "2026-1-14",
   "Commands": [
     {
       "Command": "pause",
@@ -2690,12 +2690,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-b9a58571-9fa3-401c-bc85-0f8f1913ebee-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-7cb70505-9e2f-491d-8bec-1a295ddf07c4-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-b9a58571-9fa3-401c-bc85-0f8f1913ebee-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-7cb70505-9e2f-491d-8bec-1a295ddf07c4-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//div[2]/p",
-        "css=#collectible-b9a58571-9fa3-401c-bc85-0f8f1913ebee-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-7cb70505-9e2f-491d-8bec-1a295ddf07c4-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -2830,12 +2830,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-a231500f-ce8d-4738-8122-7a7b0e84d307-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//*[@id=\"collectible-a231500f-ce8d-4738-8122-7a7b0e84d307-table-row\"]/td/div/span[2]/div/div[2]/p",
         "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "css=#collectible-a231500f-ce8d-4738-8122-7a7b0e84d307-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -2974,7 +2974,7 @@
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-44afbdfc-49e8-40c7-8dfb-e14e9232a538-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
+        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
         "css=#collectible-44afbdfc-49e8-40c7-8dfb-e14e9232a538-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
@@ -3110,12 +3110,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-6bf5b5c0-1dcf-4ed4-b83c-4f80d0ec6393-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-6bf5b5c0-1dcf-4ed4-b83c-4f80d0ec6393-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-6bf5b5c0-1dcf-4ed4-b83c-4f80d0ec6393-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -3250,12 +3250,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-d331e90f-c3ad-4db0-b015-247601be414a-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-613f6b81-1960-4d99-8554-8ec5c052761f-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-d331e90f-c3ad-4db0-b015-247601be414a-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-d331e90f-c3ad-4db0-b015-247601be414a-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-613f6b81-1960-4d99-8554-8ec5c052761f-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-613f6b81-1960-4d99-8554-8ec5c052761f-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
@@ -3390,12 +3390,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-613f6b81-1960-4d99-8554-8ec5c052761f-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-d331e90f-c3ad-4db0-b015-247601be414a-table-row\"]/td/div/span",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-613f6b81-1960-4d99-8554-8ec5c052761f-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-613f6b81-1960-4d99-8554-8ec5c052761f-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-d331e90f-c3ad-4db0-b015-247601be414a-table-row\"]/td/div/span",
+        "xpath=//tr[6]/td/div/span",
+        "css=#collectible-d331e90f-c3ad-4db0-b015-247601be414a-table-row > td:nth-child(1) > div > span.absolute.-inset-y-px.right-0.-left-4"
       ],
       "Description": ""
     },
@@ -13240,881 +13240,428 @@
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"project-dropdown-menu-option-2d62938f-45b5-4a86-8609-783d95b51d9a\"]/div",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"project-dropdown-menu-option-2d62938f-45b5-4a86-8609-783d95b51d9a\"]/div",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"project-dropdown-menu-option-2d62938f-45b5-4a86-8609-783d95b51d9a\"]/div",
-        "xpath=//div[16]/a/div",
-        "css=#project-dropdown-menu-option-2d62938f-45b5-4a86-8609-783d95b51d9a > div"
-      ],
       "Description": "oryn"
     },
     {
-      "Command": "pause",
-      "Target": "2000",
+      "Command": "comment",
+      "Target": "pause // 2000",
       "Value": "",
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-f792be25-7bc2-4013-acb5-7e41da127422-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"collectible-f792be25-7bc2-4013-acb5-7e41da127422-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-f792be25-7bc2-4013-acb5-7e41da127422-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//div[2]/p",
-        "css=#collectible-f792be25-7bc2-4013-acb5-7e41da127422-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=buy-now",
+      "Command": "comment",
+      "Target": "click // id=buy-now",
       "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=disable-storefront",
+      "Command": "comment",
+      "Target": "click // id=disable-storefront",
       "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
+      "Command": "comment",
+      "Target": "type // id=storefront-enabled-input",
       "Value": "2025-10-08T09:00:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_price",
       "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_available_count",
       "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
+      "Command": "comment",
+      "Target": "click // id=edit-deployment-submit-button",
       "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Command": "comment",
+      "Target": "click // linkText=DRiP Shared Collection",
       "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-3217cd59-3b3e-4728-87dc-97eaefa1b66e-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=buy-now",
+      "Command": "comment",
+      "Target": "click // id=buy-now",
       "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=disable-storefront",
+      "Command": "comment",
+      "Target": "click // id=disable-storefront",
       "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
+      "Command": "comment",
+      "Target": "type // id=storefront-enabled-input",
       "Value": "2025-10-08T09:15:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_price",
       "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_available_count",
       "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
+      "Command": "comment",
+      "Target": "click // id=edit-deployment-submit-button",
       "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Command": "comment",
+      "Target": "click // linkText=DRiP Shared Collection",
       "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-841b917e-c31e-4996-b515-40e918e465f5-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=buy-now",
+      "Command": "comment",
+      "Target": "click // id=buy-now",
       "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=disable-storefront",
+      "Command": "comment",
+      "Target": "click // id=disable-storefront",
       "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
+      "Command": "comment",
+      "Target": "type // id=storefront-enabled-input",
       "Value": "2025-10-13T14:16:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_price",
       "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_available_count",
       "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
+      "Command": "comment",
+      "Target": "click // id=edit-deployment-submit-button",
       "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Command": "comment",
+      "Target": "click // linkText=DRiP Shared Collection",
       "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-fc9a4795-df7a-4faa-a673-29a72e6396e0-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"collectible-fc9a4795-df7a-4faa-a673-29a72e6396e0-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-fc9a4795-df7a-4faa-a673-29a72e6396e0-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[7]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-fc9a4795-df7a-4faa-a673-29a72e6396e0-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=buy-now",
+      "Command": "comment",
+      "Target": "click // id=buy-now",
       "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=disable-storefront",
+      "Command": "comment",
+      "Target": "click // id=disable-storefront",
       "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
+      "Command": "comment",
+      "Target": "type // id=storefront-enabled-input",
       "Value": "2025-10-13T14:16:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_price",
       "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_available_count",
       "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
+      "Command": "comment",
+      "Target": "click // id=edit-deployment-submit-button",
       "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Command": "comment",
+      "Target": "click // linkText=DRiP Shared Collection",
       "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-bba337f4-1788-44ca-9a20-909a0239b564-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"collectible-bba337f4-1788-44ca-9a20-909a0239b564-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-bba337f4-1788-44ca-9a20-909a0239b564-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[8]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-bba337f4-1788-44ca-9a20-909a0239b564-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=buy-now",
+      "Command": "comment",
+      "Target": "click // id=buy-now",
       "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=disable-storefront",
+      "Command": "comment",
+      "Target": "click // id=disable-storefront",
       "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
+      "Command": "comment",
+      "Target": "type // id=storefront-enabled-input",
       "Value": "2025-10-13T14:17:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_price",
       "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_available_count",
       "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
+      "Command": "comment",
+      "Target": "click // id=edit-deployment-submit-button",
       "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Command": "comment",
+      "Target": "click // linkText=DRiP Shared Collection",
       "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-f7b6fb1e-ec4c-4dbc-8026-025f79fe7da1-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"collectible-f7b6fb1e-ec4c-4dbc-8026-025f79fe7da1-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"collectible-f7b6fb1e-ec4c-4dbc-8026-025f79fe7da1-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[9]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-f7b6fb1e-ec4c-4dbc-8026-025f79fe7da1-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=buy-now",
+      "Command": "comment",
+      "Target": "click // id=buy-now",
       "Value": "",
-      "Targets": [
-        "id=buy-now",
-        "xpath=//*[@id=\"buy-now\"]",
-        "xpath=//button[@id='buy-now']",
-        "xpath=//div[2]/div/button",
-        "css=#buy-now"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=disable-storefront",
+      "Command": "comment",
+      "Target": "click // id=disable-storefront",
       "Value": "",
-      "Targets": [
-        "id=disable-storefront",
-        "xpath=//*[@id=\"disable-storefront\"]",
-        "xpath=//button[@id='disable-storefront']",
-        "xpath=//form/div/button",
-        "css=#disable-storefront"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
+      "Command": "comment",
+      "Target": "click // xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"datepicker-preview-until\"]/div/div/input[2]",
-        "xpath=//input[@type='text']",
-        "xpath=//input[2]",
-        "css=#datepicker-preview-until > div > div > input.focus:ring-0.w-full.flex-1.p-3.bg-transparent.focus:outline-0.body-md.caret-current.border-none.form-control.input.active"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=storefront-enabled-input",
+      "Command": "comment",
+      "Target": "type // id=storefront-enabled-input",
       "Value": "2025-10-13T14:17:00.000Z",
-      "Targets": [
-        "id=storefront-enabled-input",
-        "name=collectible[storefront_enabled]",
-        "xpath=//*[@id=\"storefront-enabled-input\"]",
-        "xpath=//input[@id='storefront-enabled-input']",
-        "xpath=//div/input",
-        "css=#storefront-enabled-input"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "xpath=/html/body/div[2]/div[3]/div[2]/span",
+      "Command": "comment",
+      "Target": "click // xpath=/html/body/div[2]/div[3]/div[2]/span",
       "Value": "",
-      "Targets": [
-        "xpath=/html/body/div[2]/div[3]/div[2]/span",
-        "xpath=//div[2]/span",
-        "css=body > div.flatpickr-calendar.hasTime.animate.open.arrowTop.arrowLeft > div.flatpickr-time > div:nth-child(3) > span.arrowUp"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_price",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_price",
       "Value": "10",
-      "Targets": [
-        "id=collectible_storefront_price",
-        "name=collectible[storefront_price]",
-        "xpath=//*[@id=\"collectible_storefront_price\"]",
-        "xpath=//input[@id='collectible_storefront_price']",
-        "xpath=//div[3]/div/div/input",
-        "css=#collectible_storefront_price"
-      ],
       "Description": ""
     },
     {
-      "Command": "type",
-      "Target": "id=collectible_storefront_available_count",
+      "Command": "comment",
+      "Target": "type // id=collectible_storefront_available_count",
       "Value": "500",
-      "Targets": [
-        "id=collectible_storefront_available_count",
-        "name=collectible[storefront_available_count]",
-        "xpath=//*[@id=\"collectible_storefront_available_count\"]",
-        "xpath=//input[@id='collectible_storefront_available_count']",
-        "xpath=//div[4]/div/div/input",
-        "css=#collectible_storefront_available_count"
-      ],
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "id=edit-deployment-submit-button",
-      "Value": "",
-      "Targets": [
-        "id=edit-deployment-submit-button",
-        "xpath=//*[@id=\"edit-deployment-submit-button\"]",
-        "xpath=//button[@id='edit-deployment-submit-button']",
-        "xpath=//div[6]/button[2]",
-        "css=#edit-deployment-submit-button"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
-      "Value": "",
-      "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
-      ],
-      "Description": ""
-    },
-    {
-      "Command": "pause",
-      "Target": "1000",
+      "Command": "comment",
+      "Target": "click // id=edit-deployment-submit-button",
       "Value": "",
       "Description": ""
     },
     {
-      "Command": "click",
-      "Target": "css=#project-dropdown-menu-button > svg",
+      "Command": "comment",
+      "Target": "click // linkText=DRiP Shared Collection",
       "Value": "",
-      "Targets": [
-        "xpath=//*[@id=\"project-dropdown-menu-button\"]/svg",
-        "css=#project-dropdown-menu-button > svg"
-      ],
       "Description": ""
     },
     {
-      "Command": "pause",
-      "Target": "1000",
+      "Command": "comment",
+      "Target": "pause // 1000",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "comment",
+      "Target": "click // css=#project-dropdown-menu-button > svg",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "comment",
+      "Target": "pause // 1000",
       "Value": "",
       "Description": ""
     },
