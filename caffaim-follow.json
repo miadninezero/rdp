@@ -1,13 +1,7 @@
 {
   "Name": "caf",
-  "CreationDate": "2026-1-22",
+  "CreationDate": "2026-1-26",
   "Commands": [
-    {
-      "Command": "pause",
-      "Target": "2000",
-      "Value": "",
-      "Description": ""
-    },
     {
       "Command": "refresh",
       "Target": "",
@@ -2228,12 +2222,12 @@
     },
     {
       "Command": "click",
-      "Target": "xpath=//*[@id=\"collectible-a231500f-ce8d-4738-8122-7a7b0e84d307-table-row\"]/td/div/span[2]/div/div[2]/p",
+      "Target": "xpath=//*[@id=\"collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row\"]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
-        "xpath=//*[@id=\"collectible-a231500f-ce8d-4738-8122-7a7b0e84d307-table-row\"]/td/div/span[2]/div/div[2]/p",
-        "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
-        "css=#collectible-a231500f-ce8d-4738-8122-7a7b0e84d307-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
+        "xpath=//*[@id=\"collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row\"]/td/div/span[2]/div/div[2]/p",
+        "xpath=//tr[8]/td/div/span[2]/div/div[2]/p",
+        "css=#collectible-62a32cec-853d-4dd7-b0c2-3515368c82e3-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md"
       ],
       "Description": ""
     },
