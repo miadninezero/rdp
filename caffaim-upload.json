@@ -1,6 +1,6 @@
 {
   "Name": "caf",
-  "CreationDate": "2026-1-29",
+  "CreationDate": "2026-1-30",
   "Commands": [
     {
       "Command": "refresh",
@@ -46,7 +46,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-2d252969-058e-4ccf-90b4-80066ce998f4-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-2d252969-058e-4ccf-90b4-80066ce998f4-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -186,7 +186,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-671f435e-cb67-4513-bab5-ffd517b63be4-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-671f435e-cb67-4513-bab5-ffd517b63be4-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -326,7 +326,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-8a4d6d7e-2e87-4ec8-941f-0eb6895828f7-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-8a4d6d7e-2e87-4ec8-941f-0eb6895828f7-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -472,7 +472,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-981b5659-d978-41cf-b413-74808d996784-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-981b5659-d978-41cf-b413-74808d996784-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -612,7 +612,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-98cb6f4d-f08a-4bd7-b57f-ad9c6d9b8688-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-98cb6f4d-f08a-4bd7-b57f-ad9c6d9b8688-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -752,7 +752,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-5f0bf27d-fece-47c1-a3f9-4a3d9e6bd2a9-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-5f0bf27d-fece-47c1-a3f9-4a3d9e6bd2a9-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -892,7 +892,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-7776486c-1c56-4286-9a4c-0206369dcdb3-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[7]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-7776486c-1c56-4286-9a4c-0206369dcdb3-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -1032,7 +1032,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-2c6b87e8-21f2-4335-a849-c83779e6a063-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5",
+      "Target": "xpath=//tr[8]/td/div/span[2]/div/div[2]",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-2c6b87e8-21f2-4335-a849-c83779e6a063-table-row\"]/td/div/span[2]/div/div[2]",
@@ -1172,7 +1172,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-70e0549b-7b6b-4951-b562-423218c6c4b8-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[9]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-70e0549b-7b6b-4951-b562-423218c6c4b8-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -1312,7 +1312,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-26d5afe3-c025-4759-a426-6bbab4bac9c2-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[10]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-26d5afe3-c025-4759-a426-6bbab4bac9c2-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -1470,7 +1470,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-88bad0be-bc93-48d2-8e3f-848788418935-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-88bad0be-bc93-48d2-8e3f-848788418935-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -1620,7 +1620,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-a1622834-88d8-463d-a01a-1a170f1e1395-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[2]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-a1622834-88d8-463d-a01a-1a170f1e1395-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -1778,7 +1778,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-e2e3fb63-e689-4ccf-9c5d-3aa93a9d8264-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[3]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-e2e3fb63-e689-4ccf-9c5d-3aa93a9d8264-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -1936,7 +1936,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-8efa75ba-8c87-4ebd-99fc-27de95adf5f5-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[4]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-8efa75ba-8c87-4ebd-99fc-27de95adf5f5-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -2094,7 +2094,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-df63835c-0c88-4aff-aa5a-e2ed8dae8569-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[5]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-df63835c-0c88-4aff-aa5a-e2ed8dae8569-table-row\"]/td/div/span[2]/div/div[2]/p",
@@ -2252,7 +2252,7 @@
     },
     {
       "Command": "click",
-      "Target": "css=#collectible-be10af4a-fd38-4c2a-8add-2fdef559b245-table-row > td:nth-child(1) > div > span.relative.font-semibold > div > div.flex.flex-col.gap-0.5 > p.body-md",
+      "Target": "xpath=//tr[6]/td/div/span[2]/div/div[2]/p",
       "Value": "",
       "Targets": [
         "xpath=//*[@id=\"collectible-be10af4a-fd38-4c2a-8add-2fdef559b245-table-row\"]/td/div/span[2]/div/div[2]/p",
