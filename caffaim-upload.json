@@ -1,6 +1,6 @@
 {
   "Name": "drop-oryn",
-  "CreationDate": "2026-2-9",
+  "CreationDate": "2026-2-12",
   "Commands": [
     {
       "Command": "click",
@@ -28,6 +28,26 @@
         "css=#project-dropdown-menu-option-3 > div"
       ],
       "Description": "caffaim"
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=PixelART_S1",
+      "Value": "",
+      "Targets": [
+        "linkText=PixelART_S1",
+        "id=nav-link-collection-a034ed6e-5b33-4648-bc67-70aa2541acc9",
+        "xpath=//*[@id=\"nav-link-collection-a034ed6e-5b33-4648-bc67-70aa2541acc9\"]",
+        "xpath=//a[@id='nav-link-collection-a034ed6e-5b33-4648-bc67-70aa2541acc9']",
+        "xpath=//li[3]/a",
+        "css=#nav-link-collection-a034ed6e-5b33-4648-bc67-70aa2541acc9"
+      ],
+      "Description": ""
     },
     {
       "Command": "pause",
@@ -163,7 +183,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -303,7 +323,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -449,7 +469,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -589,7 +609,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -729,7 +749,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -869,7 +889,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -1009,7 +1029,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -1149,7 +1169,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -1289,7 +1309,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -1429,7 +1449,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -1579,7 +1599,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -1737,7 +1757,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -1895,7 +1915,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -2053,7 +2073,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -2211,7 +2231,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -2369,7 +2389,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=PixelART_S1",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -2413,6 +2433,26 @@
         "css=#project-dropdown-menu-option-4 > div"
       ],
       "Description": "chika chan"
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[4]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
     },
     {
       "Command": "pause",
@@ -4807,6 +4847,26 @@
     },
     {
       "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[4]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
       "Target": "xpath=//div[2]/p",
       "Value": "",
       "Targets": [
@@ -7192,6 +7252,26 @@
     },
     {
       "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[4]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
       "Target": "xpath=//div[2]/p",
       "Value": "",
       "Targets": [
@@ -9568,6 +9648,26 @@
         "css=#project-dropdown-menu-option-12 > div"
       ],
       "Description": "oryn"
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=DRiP Shared Collection",
+      "Value": "",
+      "Targets": [
+        "linkText=DRiP Shared Collection",
+        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
+        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
+        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "xpath=//li[4]/a",
+        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+      ],
+      "Description": ""
     },
     {
       "Command": "pause",
