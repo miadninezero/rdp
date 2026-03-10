@@ -1,6 +1,6 @@
 {
-  "Name": "drop-oryn",
-  "CreationDate": "2026-2-23",
+  "Name": "v1",
+  "CreationDate": "2026-3-10",
   "Commands": [
     {
       "Command": "click",
@@ -3574,15 +3574,15 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Rabbit Mys1",
       "Value": "",
       "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
+        "linkText=Rabbit Mys1",
+        "id=nav-link-collection-bed2f53d-02a6-43b4-a7dd-be5fd62f7596",
+        "xpath=//*[@id=\"nav-link-collection-bed2f53d-02a6-43b4-a7dd-be5fd62f7596\"]",
+        "xpath=//a[@id='nav-link-collection-bed2f53d-02a6-43b4-a7dd-be5fd62f7596']",
         "xpath=//li[3]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+        "css=#nav-link-collection-bed2f53d-02a6-43b4-a7dd-be5fd62f7596"
       ],
       "Description": ""
     },
@@ -9657,15 +9657,15 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
-        "linkText=DRiP Shared Collection",
-        "id=nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca",
-        "xpath=//*[@id=\"nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca\"]",
-        "xpath=//a[@id='nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca']",
-        "xpath=//li[4]/a",
-        "css=#nav-link-collection-fa572428-1ff0-4c61-b5a6-9d1655a954ca"
+        "linkText=Red Square",
+        "id=nav-link-collection-36ec937c-e9e8-4dec-800e-8c32616f1ead",
+        "xpath=//*[@id=\"nav-link-collection-36ec937c-e9e8-4dec-800e-8c32616f1ead\"]",
+        "xpath=//a[@id='nav-link-collection-36ec937c-e9e8-4dec-800e-8c32616f1ead']",
+        "xpath=//li[3]/a",
+        "css=#nav-link-collection-36ec937c-e9e8-4dec-800e-8c32616f1ead"
       ],
       "Description": ""
     },
@@ -9803,7 +9803,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -9943,7 +9943,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -10089,7 +10089,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -10229,7 +10229,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -10369,7 +10369,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -10509,7 +10509,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -10649,7 +10649,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -10789,7 +10789,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -10929,7 +10929,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -11069,7 +11069,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -11219,7 +11219,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -11377,7 +11377,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -11535,7 +11535,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -11693,7 +11693,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -11851,7 +11851,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
@@ -12009,7 +12009,7 @@
     },
     {
       "Command": "click",
-      "Target": "linkText=DRiP Shared Collection",
+      "Target": "linkText=Red Square",
       "Value": "",
       "Targets": [
         "linkText=DRiP Shared Collection",
